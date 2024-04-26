@@ -1,0 +1,2 @@
+projektid;title;InstitutUUID;FakultetUUID;Personuuid;bevillingsgiveruuid;typeuri;startDate;endDate;awardDate;funds
+12345;Title xyz;Org1 UUID;Org2 UUID;Person UUID;Funder UUID;/dk/atira/pure/award/awardtypes/award/xxx/award;01-06-2022;30-11-2024;08-07-2022;999999
